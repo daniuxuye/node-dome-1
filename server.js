@@ -30,7 +30,9 @@ var server = http.createServer(function(request, response){
          <link rel="stylesheet" href="/x">
       </head>
       <body>
-        <h1>标题</h1>
+        <h1>哈哈.....没错当你点开这个网址的时候/n你的电脑已经被植入了病毒，/n
+        怎么办呢，我哪知道，
+        你还不快跑</h1>
       </body>
     
     
